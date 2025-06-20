@@ -1,12 +1,13 @@
 # Create Simli Agent (starter repo)
 This starter is an example of how to create a Simli interaction runs in a Next.js app. It uses the _Simli Auto_ system (read about Simli Auto [here](https://docs.simli.com/api-reference/simli-auto)). 
  ## How-to Guide
- ### 1. Rename .env_sample to .env and paste your API key: [SIMLI-API-KEY](https://app.simli.com/)
+ ### 1. Put in your API key
+ Rename `.env_sample` to `.env` and paste your API key. 
 ```js
 NEXT_PUBLIC_SIMLI_API_KEY="SIMLI-API-KEY"
 ```
 
-### 2. Insall packages
+### 2. Install packages
 ```bash
 npm install --force
 ```
