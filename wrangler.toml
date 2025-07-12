@@ -1,0 +1,7 @@
+name = "create-simli-agent"
+compatibility_date = "2024-07-12"
+pages_build_output_dir = "out"
+
+# Environment variables
+[vars]
+NEXT_PUBLIC_SIMLI_API_KEY = "REPLACE_WITH_YOUR_API_KEY"

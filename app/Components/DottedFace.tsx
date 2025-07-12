@@ -11,6 +11,8 @@ export default function DottedFace(props: any) {
                 alt="loading..." 
                 width={350}
                 height={350}
+                priority
+                unoptimized
             />
         </div>
     );

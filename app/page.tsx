@@ -32,7 +32,7 @@ const Demo: React.FC = () => {
           }}
           className="font-bold cursor-pointer mb-8 text-xl leading-8"
         >
-          <Image className="w-[20px] inline mr-2" src={GitHubLogo} alt="" />
+          <Image className="w-[20px] inline mr-2" src={GitHubLogo} alt="" unoptimized />
           create-simli-agent
         </text>
       </div>
